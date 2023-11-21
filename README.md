@@ -22,7 +22,7 @@ For example, [in Ethereum it is not possible to enforce Royalty fees on second s
    * The app pays the seller the total amount minus the royalty fees
    * Royalty fees are collected in the App. The owner of the royalty fees (the Creator of the asset) can redeem the royalty fees whenever he/she wants.
 
-Using this method it is possible to build a general Royalty Fee smart contract that can handle royalty fees on the Algorand blockchain. To keep reading, please refer to the main article. 
+Using this method it is possible to build a general Royalty Fee smart contract that can handle royalty fees on the Algorand blockchain.
 
 Check the **Install** section to install all the needed software.
 
